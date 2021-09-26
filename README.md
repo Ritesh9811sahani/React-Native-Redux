@@ -3,7 +3,8 @@
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the process with the following:
 ```
-git clone https://github.com/ajaybodara/React-Native-Redux.git
+git clone https://github.com/Ritesh9811sahani/React-Native-Redux.git
+
 cd React-Native-Redux
 npm install
 react-native run-android for android
